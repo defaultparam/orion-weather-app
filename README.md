@@ -7,4 +7,4 @@ You can find the deployed version of the app on Firebase... https://orion-weathe
 
 ![image](https://user-images.githubusercontent.com/52860537/199904812-da794198-ffa8-4075-9320-8dfd1eade323.png)
 
-If you got any suggestions, or like to contribute? Feel free to reach out to me on [Twitter](https://twitter.com/param373r) ;)
+If you got any suggestions, or like to contribute? Feel free to reach out to me on [X](https://x.com/defaultparam) ;)
